@@ -681,6 +681,10 @@ em, .play-font i{
 /*End Loading Page*/
 
 @media (max-width: 991px){
+    body{
+        zoom: 150%;
+    }
+    
     /*Start Our NavBar-Top*/
     .navbar-top{
         text-align: center;
@@ -874,4 +878,5 @@ em, .play-font i{
     }
     /*End Our Copyright*/
 }
+
 
